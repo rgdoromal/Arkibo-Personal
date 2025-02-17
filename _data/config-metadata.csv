@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link
-indetifier,Accession Number
+indetifier,Accession Number,,
 location,Shelf Location
 title,Title
 creator,Creator,true
